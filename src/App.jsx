@@ -292,6 +292,13 @@ const imported =
   }
 }, []);
 
+useEffect(() => {
+  localStorage.setItem(
+    "prompt_library",
+    JSON.stringify(library)
+  );
+}, [library]);
+
   useEffect(() => {
   localStorage.setItem("authorName", settings.profile.authorName);
 }, [settings.profile.authorName]);
@@ -705,10 +712,10 @@ if (!exists) {
   setSaveTagsInput("");
 };
 
-  const confirmDeleteLibraryItem = () => {
+ const confirmDeleteLibraryItem = () => {
   if (!deleteTarget) return;
 
-  saveLibrary(prev =>
+  setLibrary(prev =>
     prev.filter(item => item.id !== deleteTarget.id)
   );
 
