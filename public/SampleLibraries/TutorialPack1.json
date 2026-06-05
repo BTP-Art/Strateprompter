@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "items": [
+       {
+      "id": "a31838c1-637f-4445-bc12-b58cdabe051f",
+      "name": "Ben",
+      "text": "Middle age adult Male.\nLight skin tone.\nMedium brown full head of hair.\nLong, between shoulder length hair pulled into a low ponytail.\nBlue almond shaped eyes.\nThin nose.\nLong reddish brown tapered beard.\nRealistic, mature features.\nAverage height.\nDad bod build.",
+      "type": "style",
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "tags": [
+        "Character",
+        "Sample",
+        "Male",
+        "Adult"
+      ]
+    },
+    {
+      "id": "8f8c9b3d-207c-4fe1-93e7-30033e2d5071",
+      "name": "Pickle Boy",
+      "text": "Anthropomorphic gherkin.\nGreen bumpy skin.\nSkinny.\nBig Blue eyes\nSmiling.\n\nStick arm and legs\nThe finger classic Disney glove hands\n\nPlayful demeanor ",
+      "type": "style",
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "tags": [
+        "Character",
+        "Male",
+        "Toon",
+        "Sample"
+      ]
+    },
+    {
+      "id": "c6529a76-3977-42c6-b999-8ec8d841087b",
+      "name": "BJ",
+      "text": "BJ.\nAdult woman.\nOlive skin tone.\nLong straight purple hair.\nGrey blue eyes.\nDark eyeliner.\nFull lips\nMature, realistic facial structure.\nHigh Cheekbones.\nThin nose.\nElegant feminine physique.\n6 feet tall.\nExpressive face.\nSmall breast.\nTattoos.\nSmall stud piercings, one in each nostril.\nSingle small silver stud piercing centered between lower lip and chin.\nNavel Piercing\nEars piercing all around edges.",
+      "type": "style",
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "tags": [
+        "Character",
+        "Sample",
+        "Female",
+        "Adult"
+      ]
+    },
+    {
+      "id": "5047d73b-36f5-464b-8656-eb6e940239a5",
+      "name": "Toriyama, Akira",
+      "text": "Akira Toriyama-inspired clean animation illustration.\nHighly readable character design.\nSmooth inked linework.\nSoft cel shading.\nSimple but expressive facial features.\nClear anatomical structure.\nBright, clean color palette.\nBalanced cartoon realism.\nStrong silhouette readability.\nLightweight animation aesthetic.\nDragon Ball era illustration style.\nNo heavy texture or painterly shading.",
+      "tags": [
+        "Style",
+        "Comic",
+        "Cel Shading",
+        "Manga"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "Unknown",
+      "type": "style"
+    },
+    {
+      "id": 1780301023713,
+      "name": "Parkinson, Keith",
+      "text": "Keith Parkinson-inspired fantasy illustration.\nClassic Dungeons and Dragons artwork.\nHeroic fantasy adventure.\nBright fantasy color palette.\nEpic quest atmosphere.\nLegendary heroes.\nDragons and ancient ruins.\nDetailed fantasy costumes.\nHigh fantasy worldbuilding.\nFantasy novel cover illustration.\nTraditional oil painting.\nRichly detailed environment.\nOptimistic heroic tone.\nClassic TSR-era fantasy art.\nAdventure and exploration.",
+      "tags": [
+        "Style",
+        "Fantasy",
+        "Heroic",
+        "Epic",
+        "Oil"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+     {
+      "id": "5496f843-6f16-4f98-bad1-eefc2eea616f",
+      "name": "Lee, Jim",
+      "text": "Jim Lee-inspired modern superhero illustration.\nHighly detailed inked linework.\nDynamic anatomy with exaggerated but realistic proportions.\nStrong muscle structure and defined form rendering.\nCross-hatched shading with controlled rendering detail.\nCrisp contour lines and precise inking.\nDramatic superhero composition.\nHigh-energy action illustration style.\nClean but highly complex visual detailing.\nModern DC Comics aesthetic.\nSharp edges and polished line discipline.\nNo painterly texture.\nNo soft rendering.",
+      "tags": [
+        "Style",
+        "Comic",
+        "Dynamic",
+        "Dramatic"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "Unknown",
+      "type": "style"
+    },
+    {
+      "id": 1780350838964,
+      "name": "Volumetric God Rays",
+      "text": "Visible light rays passing through atmospheric particles.\nSoft directional beams of light.\nGod rays filtering through environment.\nSubtle haze and depth-based light scattering.\nCinematic atmospheric lighting effect.\nLight shafts interacting with environment geometry.\nControlled bloom without overexposure.\nFantasy and sci-fi environmental illumination.\nDepth-enhancing atmospheric perspective lighting.",
+      "tags": [
+        "Lighting"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+    {
+      "id": 1780369424889,
+      "name": "Aliens watching",
+      "text": "Short grey aliens standing in background.\nLarge grey eyes.\nExaggerate head shapes\nsmall mouth.\nno nose.\nFour long skinny fingers on each hand",
+      "tags": [
+        "Sci-Fi",
+        "Alien",
+        "Background"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    }
+  ]
+}

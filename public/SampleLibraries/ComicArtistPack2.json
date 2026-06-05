@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "items": [
+     {
+      "id": "5496f843-6f16-4f98-bad1-eefc2eea616f",
+      "name": "Lee, Jim",
+      "text": "Jim Lee-inspired modern superhero illustration.\nHighly detailed inked linework.\nDynamic anatomy with exaggerated but realistic proportions.\nStrong muscle structure and defined form rendering.\nCross-hatched shading with controlled rendering detail.\nCrisp contour lines and precise inking.\nDramatic superhero composition.\nHigh-energy action illustration style.\nClean but highly complex visual detailing.\nModern DC Comics aesthetic.\nSharp edges and polished line discipline.\nNo painterly texture.\nNo soft rendering.",
+      "tags": [
+        "Style",
+        "Comic",
+        "Dynamic",
+        "Dramatic"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "Unknown",
+      "type": "style"
+    },
+    {
+      "id": "fa5e7ae4-c42a-4e66-961c-6db79e812414",
+      "name": "McFarlane, Todd",
+      "text": "Todd McFarlane-inspired dark comic illustration.\nHighly dynamic exaggerated anatomy.\nExtreme foreshortening and dramatic poses.\nIntricate, energetic ink linework.\nDense cross-hatching and textured shading.\nDark atmospheric comic book style.\nStylized realism with heightened anatomy.\nSinister and energetic visual tone.\nHigh contrast black ink rendering.\nChaotic but controlled composition design.\nEmphasis on motion, tension, and impact.\nModern 1990s independent comic aesthetic.\nSpawn-era comic art influence.\nNot painterly.\nNot flat animation.",
+      "tags": [
+        "Style",
+        "Comic",
+        "Dynamic",
+        "Dark",
+        "High Contrast"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "Unknown",
+      "type": "style"
+    },
+    {
+      "id": "2768ef15-6a7f-4c48-886f-6f205f047421",
+      "name": "Liefeld, Rob",
+      "text": "Rob Liefeld-inspired extreme 1990s comic illustration.\nHighly exaggerated superhero anatomy with distorted proportions.\nOversized upper body with extreme musculature emphasis.\nSmall or simplified lower legs and reduced anatomical realism.\nDynamic extreme action posing.\nHeavy costume design with straps, armor, and utility gear.\nExcessive pouches and tactical accessories.\nBold ink outlines with heavy shadow blocking.\nChaotic but energetic composition design.\nAggressive 90s Image Comics aesthetic.\nStylized anatomy prioritizing impact over realism.\nHigh contrast action illustration style.\nRough, dense costume detailing.\nNot anatomically accurate.\nNot subtle or minimal design.",
+      "tags": [
+        "Style",
+        "Comic",
+        "High Contrast",
+        "Exaggerated"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+    {
+      "id": "9152e297-a457-484f-b746-3e9788bd4937",
+      "name": "Campbell, J. Scott",
+      "text": "J. Scott Campbell-inspired comic illustration.\nStylized anime-influenced western superhero art.\nHighly idealized anatomy with elegant proportions.\nSlim waist with exaggerated hourglass figure design.\nSmooth clean linework with polished edges.\nExpressive facial features with large stylized eyes.\nAttractive pin-up aesthetic.\nGraceful, fluid posing and body language.\nLightweight rendering with controlled shading.\nClean costume design with minimal visual clutter.\nBright, polished comic book color aesthetic.\nModern Image Comics / Marvel pin-up style influence.\nHighly designed, visually appealing character focus.\nNot gritty realism.\nNot heavy texture or cross-hatching.",
+      "tags": [
+        "Style",
+        "Comic",
+        "Anime",
+        "Pin-up"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+    {
+      "id": "c8b43821-d71a-4eda-8b80-5b7fa6ee8c30",
+      "name": "Larson, Erik",
+      "text": "Erik Larsen-inspired comic illustration.\nHighly dynamic exaggerated anatomy.\nPowerful exaggerated musculature and movement.\nOrganic flowing body structure.\nEnergetic inked linework.\nAction-heavy composition design.\nBold superhero poses.\nCartoon-realism hybrid style.\nSavage Dragon comic aesthetic.\nExpressive and kinetic figure drawing.\nLess rigid anatomy, more fluid motion.\nExtreme but readable exaggeration.\nNot minimalist.",
+      "tags": [
+        "Style",
+        "Comic",
+        "Dynamic",
+        "Extreme"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+    {
+      "id": "ffcb3d19-1874-4b96-80d9-bf0467610f8a",
+      "name": "Valentino, Jim",
+      "text": "Jim Valentino-inspired comic illustration.\nClean stylized superhero design.\nModerate anatomy stylization.\nStrong silhouette readability.\nSimple but effective costume design.\nClear linework with minimal clutter.\nStory-driven composition.\nExpressive character acting.\nBalanced proportions.\n1990s Image Comics aesthetic.\nReadable visual storytelling focus.\nLess exaggerated than extreme 90s styles.\nNot heavily detailed rendering.",
+      "tags": [
+        "Style",
+        "Comic",
+        "Balanced",
+        "Strong"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+    {
+      "id": "f6b004a6-1867-410a-98f3-659bf8015085",
+      "name": "Silvastri, Mark",
+      "text": "Mark Silvestri-inspired comic illustration.\nClean detailed inked linework.\nHighly polished superhero anatomy.\nBalanced realistic proportions with stylized enhancement.\nSleek muscular figures.\nControlled cross-hatching and rendering.\nDynamic but grounded poses.\n90s Image Comics aesthetic.\nSharp facial structure and expressive eyes.\nCinematic action composition.\nDetailed but readable costume design.\nNot overly exaggerated anatomy.\nNot cartoonish.",
+      "tags": [
+        "Style",
+        "Comic",
+        "Balanced",
+        "Dynamic"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    }
+  ]
+}

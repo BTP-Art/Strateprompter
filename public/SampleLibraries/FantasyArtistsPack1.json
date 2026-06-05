@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": 1780300844436,
+      "name": "Frazetta, Frank",
+      "text": "Frank Frazetta fantasy painting.\nClassic 1970s paperback cover art.\nTraditional oil painting on canvas.\nVisible brushstrokes.\nPainterly textures.\nRealistic anatomy.\nMature facial structure.\nDramatic chiaroscuro lighting.\nRich earth-tone color palette.\nFantasy adventure illustration.\nVintage pulp fantasy artwork.\nMasterpiece composition.\nHighly detailed.\nAtmospheric depth.\nTimeless fantasy art.\nVintage fantasy illustration. Not digital art. dramatic oil-painted lighting, chiaroscuro, torchlight, warm highlights, deep shadows, painted atmosphere",
+      "tags": [
+        "Style",
+        "Pulp",
+        "Oil",
+        "Fantasy",
+        "Heroic",
+        "Adventure"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+    {
+      "id": 1780300956562,
+      "name": "Krenkel, Roy",
+      "text": "Roy Krenkel-inspired fantasy illustration.\nClassic pen-and-ink adventure artwork.\nHighly detailed line drawing.\nIntricate cross-hatching and ink shading.\nBlack-and-white illustration.\nVintage fantasy book interior artwork.\nDetailed historical costume design.\nAncient ruins and archaeological atmosphere.\nFine pen work defines form and texture.\nAdventure illustration from a classic fantasy novel.\nDense linework.\nHand-drawn illustration.\nEtching-like detail.\n19th-century engraving influence.\nNot painterly.\nNot digital painting.\nMinimal color.",
+      "tags": [
+        "Style",
+        "Fantasy",
+        "Pen-and-Ink",
+        "Black-and-White"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+    {
+      "id": 1780301046187,
+      "name": "Vallejo, Boris",
+      "text": "Boris Vallejo-inspired fantasy illustration.\nHyper-realistic fantasy art.\nHighly polished oil painting.\nIdealized anatomy.\nClassical heroic fantasy.\nMythological atmosphere.\nRich dramatic lighting.\nGlossy painted surfaces.\nElegant fantasy beauty.\nPowerful fantasy figures.\nFantasy calendar artwork.\nHigh-detail realism.\nEpic fantasy illustration.\nProfessional fantasy cover art.\nSmooth rendering.\nRich saturated colors.",
+      "tags": [
+        "Style",
+        "Fantasy",
+        "Pulp",
+        "Oil",
+        "Heroic",
+        "Mythical",
+        "Dramatic Lighting",
+        "Powerful",
+        "Epic",
+        "Elegant"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+    {
+      "id": 1780320807055,
+      "name": "Parrish, Maxfield",
+      "text": "Maxfield Parrish – inspired dream realism.\nLuminous idealized fantasy illustration.\nSmooth glazed lighting.\nEthereal dreamlike realism.\nHighly polished classical illustration style.\nSoft surreal atmosphere.\nPerfectly balanced composition.\nBlue-gold atmospheric lighting.\nPainterly but smooth finish.\nRomantic fantasy mood.",
+      "tags": [
+        "Style",
+        "Dreamlike",
+        "Realism",
+        "Surrealism",
+        "Romantic"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+    {
+      "id": 1780301023713,
+      "name": "Parkinson, Keith",
+      "text": "Keith Parkinson-inspired fantasy illustration.\nClassic Dungeons and Dragons artwork.\nHeroic fantasy adventure.\nBright fantasy color palette.\nEpic quest atmosphere.\nLegendary heroes.\nDragons and ancient ruins.\nDetailed fantasy costumes.\nHigh fantasy worldbuilding.\nFantasy novel cover illustration.\nTraditional oil painting.\nRichly detailed environment.\nOptimistic heroic tone.\nClassic TSR-era fantasy art.\nAdventure and exploration.",
+      "tags": [
+        "Style",
+        "Fantasy",
+        "Heroic",
+        "Epic",
+        "Oil"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+    {
+      "id": 1780321472237,
+      "name": "Sanjulian, Manuel",
+      "text": "Sanjulian fantasy and horror painting.\nTraditional oil painting.\nRich painterly brushwork.\nDramatic theatrical lighting.\nDeep crimson and earth-tone palette.\nClassic fantasy and horror illustration.\nExpressive realistic faces.\nGothic atmosphere.\nDense painted textures.\nOld-world realism.\nPowerful visual storytelling.\nMagazine-cover illustration aesthetic.\nWarm highlights and deep shadows.\nPainterly flesh tones.\nMoody cinematic composition.\nNot comic-book art.",
+      "tags": [
+        "Style",
+        "Fantasy",
+        "Horror",
+        "Oil",
+        "Dramatic",
+        "Pulp",
+        "Realism"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    }
+  ]
+}

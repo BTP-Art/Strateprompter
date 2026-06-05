@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "items": [
+      {
+      "id": 1780320831541,
+      "name": "Giger, H.R.",
+      "text": "H.R. Giger-inspired biomechanical fantasy.\nDark surreal industrial organic design.\nBiomechanical architecture.\nAirbrushed monochrome realism.\nDense black shadows and bone textures.\nOrganic-machine fusion structures.\nHorror-tinged science fantasy atmosphere.\nClaustrophobic composition.\nIntricate biomechanical detail.\nGothic futuristic design.\nUncanny organic forms.\nErotic surreal horror aesthetic.\nCold metallic and bone-like surfaces.\nOppressive alien environment.",
+      "tags": [
+        "Style",
+        "Fantasy",
+        "Horror",
+        "Surrealism",
+        "Biomechanical",
+        "Sci-Fi",
+        "Gothic",
+        "Erotic"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+    {
+      "id": 1780320995661,
+      "name": "Gammell, Stephen",
+      "text": "Stephen Gammell-inspired expressionist horror illustration.\nScratchy ink linework and rough graphite drawing.\nMonochrome illustration.\nBlack ink on off-white or aged paper.\nNo color fills, no watercolor washes, no painted color.\nDistorted anatomy and jittered linework.\nSmeared edges and unstable form rendering.\nChaotic facial structure and organic visual distortion.\nPsychological horror sketch aesthetic.\nRaw expressive draft illustration.\nUnstable perceptual rendering.\nNot painterly.\nNot color illustration.\nNot digital painting.",
+      "tags": [
+        "Style",
+        "Horror",
+        "Monochrome",
+        "Psychological",
+        "Black-and-White",
+        "Distorted"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+    {
+      "id": 1780321044015,
+      "name": "Brzezinski, Zdzislaw",
+      "text": "Zdzislaw Brzezinski-inspired Gothic surrealism\nSurreal dystopian painting.\nDreamlike decaying environments.\nEmotional silence and isolation.\nOrganic abstract structures.\nAtmospheric horror realism.\nSoft but disturbing lighting.\nMonochrome or desaturated palette.\nPsychological surrealism.\nEnd-of-world atmosphere.\nNo clear narrative focus.",
+      "tags": [
+        "Style",
+        "Gothic",
+        "Surrealism",
+        "Horror"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+    {
+      "id": 1780321620913,
+      "name": "Blanche, John",
+      "text": "John Blanche-inspired dark fantasy illustration.\nChaotic gothic fantasy.\nRough expressive brushwork.\nMedieval nightmare atmosphere.\nReligious iconography.\nGrimdark aesthetic.\nDirty weathered textures.\nDistorted historical realism.\nDark ceremonial imagery.\nBaroque fantasy design.\nExpressive sketch-like rendering.\nAncient decadent civilization.\nGothic horror atmosphere.\nChaotic visual storytelling.\nDark age fantasy illustration.\nNot polished realism.",
+      "tags": [
+        "Style",
+        "Nightmare",
+        "Gothic",
+        "Fantasy",
+        "Dark"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+     {
+      "id": 1780321756832,
+      "name": "Corben, Richard",
+      "text": "Richard Corben-inspired fantasy illustration.\nHeavy Metal magazine aesthetic.\nUnderground fantasy comics style.\nExaggerated anatomy.\nHighly rendered figures.\nGrotesque fantasy realism.\nStrange dreamlike atmosphere.\nDark fantasy storytelling.\nExpressive faces and forms.\nMuscular stylized physiques.\nStrong shadows and dramatic lighting.\nComic illustration realism.\nWeird fantasy adventure.\nSurreal horror undertones.\nPainterly comic-book realism.",
+      "tags": [
+        "Style",
+        "Fantasy",
+        "Dark",
+        "Dynamic Lighting",
+        "Comic",
+        "Surrealism",
+        "Horror"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+    {
+      "id": 1780295868350,
+      "name": "Stokes, Anne",
+      "text": "Anne Stokes-inspired fantasy illustration.\nGothic fantasy realism.\nHighly polished digital painting style.\nDragons and mystical creatures.\nBeautiful fantasy women as central figures.\nStrong focal composition.\nDecorative fantasy lighting.\nRich saturated colors.\nSymbolic fantasy storytelling.\nRomantic dark fantasy mood.\nClean readable forms for illustration reproduction.\nFantasy poster and calendar art aesthetic.\nHighly detailed but structured composition.\nModern fantasy illustration style.",
+      "tags": [
+        "Style",
+        "Gothic",
+        "Fantasy",
+        "Romantic"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "Unknown",
+      "type": "style"
+    },
+    {
+      "id": 1780300860014,
+      "name": "Brom",
+      "text": "Brom-inspired dark fantasy illustration.\nGothic fantasy painting.\nMacabre and atmospheric storytelling art.\nPainterly oil painting style.\nHighly textured brushwork.\nStylized realism with slightly exaggerated anatomy.\nExpressive, haunting facial features.\nEerie beauty and unsettling elegance.\nDark fairytale mood.\nNot heroic fantasy.\nNot pulp adventure art.",
+      "tags": [
+        "Style",
+        "Gothic",
+        "Dark",
+        "Fantasy"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": 1780300844436,
+      "name": "Frazetta, Frank",
+      "text": "Frank Frazetta fantasy painting.\nClassic 1970s paperback cover art.\nTraditional oil painting on canvas.\nVisible brushstrokes.\nPainterly textures.\nRealistic anatomy.\nMature facial structure.\nDramatic chiaroscuro lighting.\nRich earth-tone color palette.\nFantasy adventure illustration.\nVintage pulp fantasy artwork.\nMasterpiece composition.\nHighly detailed.\nAtmospheric depth.\nTimeless fantasy art.\nVintage fantasy illustration. Not digital art. dramatic oil-painted lighting, chiaroscuro, torchlight, warm highlights, deep shadows, painted atmosphere",
+      "tags": [
+        "Style",
+        "Pulp",
+        "Oil",
+        "Fantasy",
+        "Heroic",
+        "Adventure"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+    {
+      "id": 1780295868350,
+      "name": "Stokes, Anne",
+      "text": "Anne Stokes-inspired fantasy illustration.\nGothic fantasy realism.\nHighly polished digital painting style.\nDragons and mystical creatures.\nBeautiful fantasy women as central figures.\nStrong focal composition.\nDecorative fantasy lighting.\nRich saturated colors.\nSymbolic fantasy storytelling.\nRomantic dark fantasy mood.\nClean readable forms for illustration reproduction.\nFantasy poster and calendar art aesthetic.\nHighly detailed but structured composition.\nModern fantasy illustration style.",
+      "tags": [
+        "Style",
+        "Gothic",
+        "Fantasy",
+        "Romantic"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "Unknown",
+      "type": "style"
+    },
+    {
+      "id": 1780301023713,
+      "name": "Parkinson, Keith",
+      "text": "Keith Parkinson-inspired fantasy illustration.\nClassic Dungeons and Dragons artwork.\nHeroic fantasy adventure.\nBright fantasy color palette.\nEpic quest atmosphere.\nLegendary heroes.\nDragons and ancient ruins.\nDetailed fantasy costumes.\nHigh fantasy worldbuilding.\nFantasy novel cover illustration.\nTraditional oil painting.\nRichly detailed environment.\nOptimistic heroic tone.\nClassic TSR-era fantasy art.\nAdventure and exploration.",
+      "tags": [
+        "Style",
+        "Fantasy",
+        "Heroic",
+        "Epic",
+        "Oil"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+     {
+      "id": "5496f843-6f16-4f98-bad1-eefc2eea616f",
+      "name": "Lee, Jim",
+      "text": "Jim Lee-inspired modern superhero illustration.\nHighly detailed inked linework.\nDynamic anatomy with exaggerated but realistic proportions.\nStrong muscle structure and defined form rendering.\nCross-hatched shading with controlled rendering detail.\nCrisp contour lines and precise inking.\nDramatic superhero composition.\nHigh-energy action illustration style.\nClean but highly complex visual detailing.\nModern DC Comics aesthetic.\nSharp edges and polished line discipline.\nNo painterly texture.\nNo soft rendering.",
+      "tags": [
+        "Style",
+        "Comic",
+        "Dynamic",
+        "Dramatic"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "Unknown",
+      "type": "style"
+    },
+    {
+      "id": "9152e297-a457-484f-b746-3e9788bd4937",
+      "name": "Campbell, J. Scott",
+      "text": "J. Scott Campbell-inspired comic illustration.\nStylized anime-influenced western superhero art.\nHighly idealized anatomy with elegant proportions.\nSlim waist with exaggerated hourglass figure design.\nSmooth clean linework with polished edges.\nExpressive facial features with large stylized eyes.\nAttractive pin-up aesthetic.\nGraceful, fluid posing and body language.\nLightweight rendering with controlled shading.\nClean costume design with minimal visual clutter.\nBright, polished comic book color aesthetic.\nModern Image Comics / Marvel pin-up style influence.\nHighly designed, visually appealing character focus.\nNot gritty realism.\nNot heavy texture or cross-hatching.",
+      "tags": [
+        "Style",
+        "Comic",
+        "Anime",
+        "Pin-up"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+    {
+      "id": "d7d66799-20c1-447c-ad9d-384ab989ede1",
+      "name": "Ditko, Steve",
+      "text": "Steve Ditko-inspired classic comic illustration.\nAngular stylized anatomy.\nClean sharp ink linework.\nStrong geometric form construction.\nDynamic perspective and foreshortening.\nClear separation of shapes and silhouettes.\nMinimal shading with functional line hatching.\n1960s Marvel Silver Age comic style.\nGraphic clarity over realism.\nEnergetic composition with exaggerated posture.\nFlat but expressive rendering.\nEmphasis on structure and gesture.\nNot painterly.\nNot soft shaded.",
+      "tags": [
+        "Style",
+        "Comic",
+        "Dynamic"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "Unknown",
+      "type": "style"
+    },
+    {
+      "id": "3aeba671-8bce-4762-8b29-6a27b3436b41",
+      "name": "Otomo, katsuhiro",
+      "text": "Katsuhiro Otomo-inspired cinematic manga illustration.\nHighly detailed mechanical linework.\nRealistic anatomy with stylized proportions.\nPrecise ink rendering.\nControlled cel shading with subtle gradients.\nDense environmental detail.\nIndustrial sci-fi aesthetic.\nClean but complex composition.\nDynamic cinematic framing.\nAkira-era manga realism style.\nNot painterly.\nNot soft animation.",
+      "tags": [
+        "Style",
+        "Comic",
+        "Manga",
+        "Sci-Fi",
+        "Industrial"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "Unknown",
+      "type": "style"
+    },
+    {
+      "id": "5047d73b-36f5-464b-8656-eb6e940239a5",
+      "name": "Toriyama, Akira",
+      "text": "Akira Toriyama-inspired clean animation illustration.\nHighly readable character design.\nSmooth inked linework.\nSoft cel shading.\nSimple but expressive facial features.\nClear anatomical structure.\nBright, clean color palette.\nBalanced cartoon realism.\nStrong silhouette readability.\nLightweight animation aesthetic.\nDragon Ball era illustration style.\nNo heavy texture or painterly shading.",
+      "tags": [
+        "Style",
+        "Comic",
+        "Cel Shading",
+        "Manga"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "Unknown",
+      "type": "style"
+    },
+    {
+      "id": 1780320831541,
+      "name": "Giger, H.R.",
+      "text": "H.R. Giger-inspired biomechanical fantasy.\nDark surreal industrial organic design.\nBiomechanical architecture.\nAirbrushed monochrome realism.\nDense black shadows and bone textures.\nOrganic-machine fusion structures.\nHorror-tinged science fantasy atmosphere.\nClaustrophobic composition.\nIntricate biomechanical detail.\nGothic futuristic design.\nUncanny organic forms.\nErotic surreal horror aesthetic.\nCold metallic and bone-like surfaces.\nOppressive alien environment.",
+      "tags": [
+        "Style",
+        "Fantasy",
+        "Horror",
+        "Surrealism",
+        "Biomechanical",
+        "Sci-Fi",
+        "Gothic",
+        "Erotic"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+     {
+      "id": 1780301071663,
+      "name": "Freas Kelly",
+      "text": "Kelly Freas-inspired illustration.\nClassic science fantasy artwork.\nVintage pulp magazine cover.\nBold brushwork.\nDynamic composition.\nRetro-futurist imagination.\nVivid color palette.\nTraditional illustration techniques.\n1950s fantasy and science fiction aesthetic.\nAdventure magazine artwork.\nExpressive painted forms.\nImaginative storytelling.\nClassic speculative fiction illustration.\nTraditional painting.",
+      "tags": [
+        "Style",
+        "Fantasy",
+        "Sci-Fi",
+        "Vivid",
+        "Adventure",
+        "Imaginative"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    }
+  ]
+}

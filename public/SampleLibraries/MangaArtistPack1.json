@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "items": [
+     {
+      "id": "56e81926-31cb-4958-9e2c-a0d06b057965",
+      "name": "Otomo, Katsuhiro",
+      "text": "Katsuhiro Otomo-inspired manga illustration.\nHighly detailed cinematic linework.\nRealistic mechanical and environmental detail.\nPrecise controlled inking style.\nSubtle cel shading with realistic lighting.\nGrounded anatomy with slight stylization.\nIndustrial sci-fi atmosphere.\nDynamic cinematic perspective and framing.\nComplex but readable composition.\nAkira-era manga realism aesthetic.\nStrong focus on world detail and realism.\nNot cartoonish.\nNot simplified design.",
+      "tags": [
+        "Style",
+        "Comic",
+        "Manga",
+        "Cel Shading",
+        "Industrial",
+        "Sci-Fi"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+    {
+      "id": "4a5153f2-2abc-41ad-b1fc-f361a6ddb5ae",
+      "name": "Miura, Kentaro",
+      "text": "Kentaro Miura-inspired dark fantasy manga illustration.\nExtremely detailed ink linework.\nDense cross-hatching and texture rendering.\nHigh realism anatomy with stylized exaggeration.\nDark atmospheric composition.\nHeavy gothic fantasy aesthetic.\nHighly intricate armor and environmental detail.\nCinematic framing and dramatic lighting.\nStrong contrast between light and shadow.\nBerserk manga visual style influence.\nEmotional intensity and grounded realism.\nNot simple or minimalist.\nNot soft cel shading.",
+      "tags": [
+        "Style",
+        "Comic",
+        "Manga",
+        "Dark",
+        "Gothic",
+        "Strong Contrast"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+    {
+      "id": "f9a991ce-26f4-4273-9af6-dfb4af7137e7",
+      "name": "Kishimoto, Masashi",
+      "text": "Masashi Kishimoto-inspired manga illustration.\nDynamic action-focused composition.\nSharp expressive facial acting.\nDetailed but readable linework.\nStrong emphasis on motion and impact.\nStylized ninja-inspired costume design.\nClear emotional expression in poses.\nControlled cel shading with moderate detail.\nBalanced anatomy with slight stylization.\nHigh-energy shonen manga aesthetic.\nNaruto-era visual storytelling style.\nNot photorealistic.\nNot painterly.",
+      "tags": [
+        "Style",
+        "Comic",
+        "Manga",
+        "Dynamic",
+        "Balanced"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+    {
+      "id": "3aeba671-8bce-4762-8b29-6a27b3436b41",
+      "name": "Otomo, katsuhiro",
+      "text": "Katsuhiro Otomo-inspired cinematic manga illustration.\nHighly detailed mechanical linework.\nRealistic anatomy with stylized proportions.\nPrecise ink rendering.\nControlled cel shading with subtle gradients.\nDense environmental detail.\nIndustrial sci-fi aesthetic.\nClean but complex composition.\nDynamic cinematic framing.\nAkira-era manga realism style.\nNot painterly.\nNot soft animation.",
+      "tags": [
+        "Style",
+        "Comic",
+        "Manga",
+        "Sci-Fi",
+        "Industrial"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "Unknown",
+      "type": "style"
+    },
+    {
+      "id": "5047d73b-36f5-464b-8656-eb6e940239a5",
+      "name": "Toriyama, Akira",
+      "text": "Akira Toriyama-inspired clean animation illustration.\nHighly readable character design.\nSmooth inked linework.\nSoft cel shading.\nSimple but expressive facial features.\nClear anatomical structure.\nBright, clean color palette.\nBalanced cartoon realism.\nStrong silhouette readability.\nLightweight animation aesthetic.\nDragon Ball era illustration style.\nNo heavy texture or painterly shading.",
+      "tags": [
+        "Style",
+        "Comic",
+        "Cel Shading",
+        "Manga"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "Unknown",
+      "type": "style"
+    }
+  ]
+}

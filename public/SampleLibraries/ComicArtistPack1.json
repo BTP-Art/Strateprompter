@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": 1780320877193,
+      "name": "Moebius",
+      "text": "Moebius-inspired illustration.\nClean, precise linework.\nSurreal science-fantasy world.\nAiry minimalist composition.\nSoft, open environments.\nDreamlike sci-fi landscapes.\nElegant ink drawing style.\nSubtle color accents.\nFrench comics illustration aesthetic.\nStrange but calm visual storytelling.\nArchitectural surrealism.\nLightweight, flowing line design.\nConceptual science fantasy art.\n1960s–1980s European comics style.",
+      "tags": [
+        "Style",
+        "Comic",
+        "Surreal",
+        "Sci-Fi",
+        "Minimalistic",
+        "Dreamlike",
+        "Concept Art",
+        "Elegant"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+    {
+      "id": 1780321028639,
+      "name": "Ross, Alex",
+      "text": "Alex Ross-inspired painted realism\nphotorealistic comic book painting\niconic superhero illustration\nmythic portrait composition\nclassical dramatic lighting\nmuseum-quality figurative realism\nstaged cinematic hero imagery\nidealized anatomy with realistic rendering\npainted photograph aesthetic\nbold iconic framing.",
+      "tags": [
+        "Style",
+        "Comic",
+        "Mythical",
+        "Heroic",
+        "Realistic"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+     {
+      "id": 1780321756832,
+      "name": "Corben, Richard",
+      "text": "Richard Corben-inspired fantasy illustration.\nHeavy Metal magazine aesthetic.\nUnderground fantasy comics style.\nExaggerated anatomy.\nHighly rendered figures.\nGrotesque fantasy realism.\nStrange dreamlike atmosphere.\nDark fantasy storytelling.\nExpressive faces and forms.\nMuscular stylized physiques.\nStrong shadows and dramatic lighting.\nComic illustration realism.\nWeird fantasy adventure.\nSurreal horror undertones.\nPainterly comic-book realism.",
+      "tags": [
+        "Style",
+        "Fantasy",
+        "Dark",
+        "Dynamic Lighting",
+        "Comic",
+        "Surrealism",
+        "Horror"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+    {
+      "id": "d7d66799-20c1-447c-ad9d-384ab989ede1",
+      "name": "Ditko, Steve",
+      "text": "Steve Ditko-inspired classic comic illustration.\nAngular stylized anatomy.\nClean sharp ink linework.\nStrong geometric form construction.\nDynamic perspective and foreshortening.\nClear separation of shapes and silhouettes.\nMinimal shading with functional line hatching.\n1960s Marvel Silver Age comic style.\nGraphic clarity over realism.\nEnergetic composition with exaggerated posture.\nFlat but expressive rendering.\nEmphasis on structure and gesture.\nNot painterly.\nNot soft shaded.",
+      "tags": [
+        "Style",
+        "Comic",
+        "Dynamic"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "Unknown",
+      "type": "style"
+    },
+    {
+      "id": "7bcdffc7-27b9-4129-beca-3e8cb7b4396f",
+      "name": "Romita Jr, John",
+      "text": "John Romita Jr.-inspired comic illustration.\nBlocky stylized anatomy construction.\nHeavy structural linework.\nAngular facial features.\nSimplified but powerful figure design.\nStrong gesture-based posing.\nBold ink outlines.\nHigh readability superhero composition.\nMarvel-style action storytelling.\nSolid geometric anatomy forms.\nRough textured ink aesthetic.\nStylized realism with heavy structure.\nNot delicate or painterly.",
+      "tags": [
+        "Style",
+        "Comic",
+        "Simplified"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": 1780350015203,
+      "name": "Three Point Lighting",
+      "text": "Key light positioned to one side of the subject at moderate height.\nFill light placed opposite key light to soften shadows without eliminating them.\nRim light positioned behind the subject to separate silhouette from background.\nBalanced professional portrait lighting design.\nSoft diffused lighting with controlled shadow gradients.\nEven exposure across subject with mild contrast.\nStudio photography lighting style.\nNeutral or seamless background.\nClean commercial portrait illumination.\nControlled highlight and shadow placement.\nSoftbox-diffused quality light with smooth falloff.\nGrid-modified directional lighting for precision control.",
+      "tags": [
+        "Lighting"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+    {
+      "id": 1780350236918,
+      "name": "Butterfly Lighting",
+      "text": "Key light positioned directly in front and above the subject.\nSoft shadow directly beneath the nose forming a butterfly-shaped shadow.\nEven facial illumination with subtle cheek shadows.\nBeauty lighting setup for symmetrical facial presentation.\nSoft glamour portrait lighting.\nMinimal harsh shadows.\nClean studio background lighting.\nEmphasizes facial symmetry and smooth skin rendering.\nClassic fashion photography lighting style.",
+      "tags": [
+        "Lighting"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+    {
+      "id": 1780350654664,
+      "name": "Rembrandt Lighting",
+      "text": "Low-key cinematic lighting setup.\nSingle key light positioned above and to the side of the subject.\nLight angled at approximately 30–45 degrees from camera axis.\nSoft falloff into deep shadows on the far side of the face.\nDistinct triangular highlight on the shadow-side cheek beneath the eye.\nStrong chiaroscuro contrast between light and shadow planes.\nDark, subdued background with minimal ambient fill light.\nSculptural facial definition shaped by directional lighting.\nMoody portrait illumination with dramatic depth.\nClassic painterly portrait lighting style.",
+      "tags": [
+        "Lighting"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+    {
+      "id": 1780350737230,
+      "name": "Split Lighting",
+      "text": "Single light source illuminating exactly one half of the subject’s face.\nOther half in deep shadow with sharp tonal separation.\nHigh contrast dramatic lighting setup.\nStrong chiaroscuro division across facial plane.\nMoody cinematic tension lighting.\nEmphasizes duality and psychological intensity.\nMinimal fill light.\nDark atmospheric background.\nHighly directional lighting design.",
+      "tags": [
+        "Lighting"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+    {
+      "id": 1780350756532,
+      "name": "Rim Lighting",
+      "text": "Strong backlight outlining the subject’s silhouette.\nLight tracing edges of hair, shoulders, and body contours.\nForeground mostly in shadow with glowing edge separation.\nCinematic subject-background separation.\nDramatic atmospheric lighting.\nSoft or dark front lighting with minimal facial fill.\nEmphasizes form outline and depth layering.\nFantasy and cinematic hero lighting style.",
+      "tags": [
+        "Lighting"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+    {
+      "id": 1780350779966,
+      "name": "Candlelight",
+      "text": "Single warm light source from candle or flame.\nFlickering uneven illumination across subject.\nStrong warm highlights and deep organic shadows.\nHigh contrast low-light environment.\nSoft shadow movement and natural falloff.\nBaroque and historical painting lighting style.\nIntimate atmospheric mood.\nWarm golden-orange color temperature.\nDark surrounding environment with localized illumination.",
+      "tags": [
+        "Lighting"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+    {
+      "id": 1780350813320,
+      "name": "Torchlight Chiaroscuro",
+      "text": "Single or multiple torch light sources.\nStrong warm highlights with deep surrounding shadows.\nHighly directional flickering illumination.\nDramatic contrast between lit and unlit areas.\nFantasy oil painting lighting style.\nBaroque-inspired chiaroscuro composition.\nEmphasizes muscle, fabric, and environmental texture.\nWarm earth-tone color palette.\nCinematic fantasy atmosphere lighting.\nDeep shadow layering with glowing highlights.",
+      "tags": [
+        "Lighting"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+    {
+      "id": 1780350838964,
+      "name": "Volumetric God Rays",
+      "text": "Visible light rays passing through atmospheric particles.\nSoft directional beams of light.\nGod rays filtering through environment.\nSubtle haze and depth-based light scattering.\nCinematic atmospheric lighting effect.\nLight shafts interacting with environment geometry.\nControlled bloom without overexposure.\nFantasy and sci-fi environmental illumination.\nDepth-enhancing atmospheric perspective lighting.",
+      "tags": [
+        "Lighting"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+    {
+      "id": 1780350872022,
+      "name": "Moonlight Low-Key",
+      "text": "Single cool light source simulating moon illumination.\nSoft blue-white highlights with deep cool shadows.\nLow ambient fill light environment.\nHigh contrast nocturnal lighting setup.\nSubtle atmospheric haze.\nCinematic night lighting style.\nCool color temperature dominance.\nEerie or serene fantasy mood lighting.\nShadow-heavy composition with reflective cool highlights.",
+      "tags": [
+        "Lighting"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },
+    {
+      "id": 1780350923066,
+      "name": "Soft Diffused Studio Light",
+      "text": "Even multi-source lighting with reduced shadows.\nHigh clarity facial illumination.\nMinimal contrast lighting setup.\nControlled professional studio environment.\nSoft gradient falloff across forms.\nNeutral background lighting.\nBalanced exposure across subject.\nCommercial portrait lighting style.\nClean readable image structure.",
+      "tags": [
+        "Lighting"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    },{
+      "id": "a9c6b917-b575-46a1-8428-17d6874f1a88",
+      "name": "Natural Light",
+      "text": "Natural daylight.\nSunlight and skylight illuminate the scene.\nSoft ambient bounce light.\nRealistic shadows and highlights.\nNatural color balance.\nNo artificial studio lighting.\nOutdoor photography aesthetic.\nPhysically accurate light falloff.",
+      "tags": [
+        "Lighting"
+      ],
+      "nsfw": false,
+      "favorite": false,
+      "author": "BTP_Art",
+      "type": "style"
+    }
+  ]
+}
