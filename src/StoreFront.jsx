@@ -58,7 +58,14 @@ Starter Packs </h1>
             "0 2px 8px rgba(0,0,0,0.08)"
         }}
       >
-        <div style={{ height: "180px", overflow: "hidden" }}>
+        <div
+  style={{
+    width: "100%",
+    aspectRatio: "1 / 1", // or "16 / 9"
+    overflow: "hidden",
+    background: "#f4f4f4"
+  }}
+>
   <img
     src={pack.thumbnail}
     alt={pack.name}
