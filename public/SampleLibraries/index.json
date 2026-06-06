@@ -8,7 +8,7 @@
     "category": "Artists",
     "version": "1.0",
     "author": "BTP_Art",
-    "thumbnail": "/SampleLibraries/thumbs/manga1TD.jpg"
+    "thumbnail": "/SampleLibraries/thumbs/manga1TN.jpg"
   },
   {
     "id": "fantasy1",
@@ -18,7 +18,7 @@
     "category": "Artists",
     "version": "1.0",
     "author": "BTP_Art",
-    "thumbnail": "/SampleLibraries/thumbs/fantasy1TD.jpg"
+    "thumbnail": "/SampleLibraries/thumbs/fantasy1TN.jpg"
   },
   {
     "id": "dark1",
@@ -28,7 +28,7 @@
     "category": "Artists",
     "version": "1.0",
     "author": "BTP_Art",
-    "thumbnail": "/SampleLibraries/thumbs/dark1TD.jpg"
+    "thumbnail": "/SampleLibraries/thumbs/dark1TN.jpg"
   },
   {
     "id": "comic1",

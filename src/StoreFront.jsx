@@ -58,32 +58,18 @@ Starter Packs </h1>
             "0 2px 8px rgba(0,0,0,0.08)"
         }}
       >
-        {pack.thumbnail ? (
-          <img
-            src={pack.thumbnail}
-            alt={pack.name}
-            style={{
-              width: "100%",
-              height: "180px",
-              objectFit: "cover"
-            }}
-          />
-        ) : (
-          <div
-            style={{
-              height: "180px",
-              display: "flex",
-              alignItems: "center",
-              justifyContent: "center",
-              background: "#f4f4f4",
-              fontSize: "14px",
-              opacity: 0.6
-            }}
-          >
-            No Preview
-          </div>
-        )}
-
+        <div style={{ height: "180px", overflow: "hidden" }}>
+  <img
+    src={pack.thumbnail}
+    alt={pack.name}
+    style={{
+      width: "100%",
+      height: "100%",
+      objectFit: "cover",
+      display: "block"
+    }}
+  />
+</div>
         <div
           style={{
             padding: "16px"
@@ -104,13 +90,16 @@ Starter Packs </h1>
           )}
 
           <h3
-            style={{
-              marginTop: 0,
-              marginBottom: "8px"
-            }}
-          >
-            {pack.name}
-          </h3>
+  style={{
+    marginTop: 0,
+    marginBottom: "8px",
+    minHeight: "40px",
+    display: "flex",
+    alignItems: "center"
+  }}
+>
+  {pack.name}
+</h3>
 
           <p
             style={{
