@@ -1,0 +1,94 @@
+{
+    "packs":[
+        {
+    "id": "manga1",
+    "name": "Manga Artist Pack 1",
+    "file": "/SampleLibraries/MangaArtistPack1.json",
+    "description": "Legendary manga artist",
+    "category": "Artists",
+    "version": "1.0",
+    "author": "BTP_Art",
+    "thumbnail": "/SampleLibraries/thumbs/manga1TD.jpg"
+  },
+  {
+    "id": "fantasy1",
+    "name": "Fantasy Artists Pack 1",
+    "file": "/SampleLibraries/FantasyArtistsPack1.json",
+    "description": "Classic fantasy illustration styles from pulp leagends and RPG source books",
+    "category": "Artists",
+    "version": "1.0",
+    "author": "BTP_Art",
+    "thumbnail": "/SampleLibraries/thumbs/fantasy1TD.jpg"
+  },
+  {
+    "id": "dark1",
+    "name": "Dark Artists Pack 1",
+    "file": "/SampleLibraries/DarkArtistsPack1.json",
+    "description": "Dark, twisted, and gothic beauty from the biggest names in horror",
+    "category": "Artists",
+    "version": "1.0",
+    "author": "BTP_Art",
+    "thumbnail": "/SampleLibraries/thumbs/dark1TD.jpg"
+  },
+  {
+    "id": "comic1",
+    "name": "Comic Artists Pack 1",
+    "file": "/SampleLibraries/ComicArtistPack1.json",
+    "description": "Bam!  Classic combook art styles",
+    "category": "Artists",
+    "version": "1.0",
+    "author": "BTP_Art",
+    "thumbnail": "/SampleLibraries/thumbs/comic1TD.jpg"
+  },
+  {
+    "id": "comic2",
+    "name": "Comic Artists Pack 2",
+    "file": "/SampleLibraries/ComicArtistPack2.json",
+    "description": "Create Images from the 90's extreame era of comicbook pages",
+    "category": "Artists",
+    "version": "1.0",
+    "author": "BTP_Art",
+    "thumbnail": "/SampleLibraries/thumbs/comic2TD.jpg"
+  },
+  {
+    "id": "party1",
+    "name": "D&D Party Pack 1",
+    "file": "/SampleLibraries/DAndDPartyPack1.json",
+    "description": "A diverse group of adventurers eager to set of on adventure",
+    "category": "Characters",
+    "version": "1.0",
+    "author": "BTP_Art",
+    "thumbnail": "/SampleLibraries/thumbs/party1TD.jpg"
+  },
+  {
+    "id": "lighting1",
+    "name": "Lighting Pack 1",
+    "file": "/SampleLibraries/LightingPack1.json",
+    "description":  "Take control of lighting your scenes",
+    "category": "Utility",
+    "version": "1.0",
+    "author": "BTP_Art",
+    "thumbnail": "/SampleLibraries/thumbs/lighting1TD.jpg"
+  },
+  {
+    "id": "sampleart1",
+    "name": "Sample Artists Pack 1",
+    "file": "/SampleLibraries/SampleArtistPack1.json",
+    "description": "10 top artist to kick start your library",
+    "category": "Artists",
+    "version": "1.0",
+    "author": "BTP_Art",
+    "thumbnail": "/SampleLibraries/thumbs/sampleartTD.jpg"
+  },
+  {
+    "id": "tutorial1",
+    "name": "Tutorial Pack 1",
+    "file": "/SampleLibraries/TutorialPack1.json",
+    "description": "Download this to follow along with the tutorial and start your journey with Strateprompter",
+    "category": "Learning",
+    "version": "1.0",
+    "author": "BTP_Art",
+    "thumbnail": "/SampleLibraries/thumbs/tutorial1TD.jpg"
+  }
+]
+}
