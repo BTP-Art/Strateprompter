@@ -1,6 +1,17 @@
 {
-    "packs":[
-        {
+     
+  "packs":[
+  {
+    "id": "tutorialPDF",
+    "name": "Tutorial PDF",
+    "file": "/Documents/Tutorial.pdf",
+    "description": "Learn to use Strateprompter today",
+    "category": "Learning",
+    "version": "1.0",
+    "author": "BTP_Art",
+    "thumbnail": "/Documents/thumbs/PickleBoy.jpg"
+  },    
+  {
     "id": "manga1",
     "name": "Manga Artist Pack 1",
     "file": "/SampleLibraries/MangaArtistPack1.json",
