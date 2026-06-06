@@ -1,7 +1,9 @@
 import React, { useEffect, useState } from "react";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import StoreFront from "./StoreFront";
 
 
-export default function PerchancePromptGenerator() {
+function PerchancePromptGenerator() {
   const ui = {
   sectionGap: "16px",
   cardPadding: "10px",
@@ -2803,5 +2805,15 @@ setImportIndex(i => i + 1);
   </div>
 )}
     </div>
+  );
+}
+export default function App() {
+  return (
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<PerchancePromptGenerator />} />
+        <Route path="/store" element={<StoreFront />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
