@@ -2812,7 +2812,7 @@ export default function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<PerchancePromptGenerator />} />
-        <Route path="/store" element={<StoreFront />} />
+        <Route path="/StoreFront" element={<StoreFront />} />
       </Routes>
     </BrowserRouter>
   );
